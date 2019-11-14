@@ -8,7 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem "sprockets-rails", :require => "sprockets/railtie"
-gem "bootstrap-sass", "~> 3.3.6"
+gem "bootstrap-sass", "~> 3.4.1"
 gem 'bcrypt'
 gem 'jquery-rails'
 gem 'mysql2', '~> 0.5.2'
